@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>IPL Schedule </title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script>
+function myFunction() {
+  document.getElementById("table-id").innerHTML = "Hello World";
+}
+</script>
+</head>
+<body>
+
+<div id="about" class="section md-padding"> 
+
+	<!-- Container -->
+	<div class="container">
+		<form action="" method="POST">
+		<!-- Row -->
+		<div class="row">
+
+			<!-- Section header -->
+			<div class="section-header text-center">
+				<h2 class="title">Indian Premier League 2019</h2>
+				<p>Use the below filters to get the only relevant data</p>
+			</div>
+			<div class="col-sm-2">
+				<!-- <form> -->
+		
+		
+
+        <h3>Date</h3>
+            <input type="date" id="start" name="date"
+            value="" 
+            min="2019-03-23" max="2019-05-12"> 
+				<!-- </form> -->
+			</div>
+
+			<div class="col-sm-2">
+				<!-- <form> -->
+					<h3>Time</h3>
+					  <select name="time">
+						<option value="All">All</option>
+						<option value="4.00 IST">00:00:04</option>
+            <option value="8.00 IST">00:00:08</option>
+
+					</select>
+				<!-- </form> -->
+			</div> 
+
+			<div class="col-sm-3">
+				<!-- <form> -->
+					<h3>Home team</h3>
+					<select name="hometeam">
+							<option value="All">All</option>
+							<option value="Chennai Super Kings">Chennai Super Kings</option>
+							<option value="Royal Challengers Bangalore">Royal Challengers Bangalore</option>
+              				<option value="Kings XI Punjab">Kings XI Punjab</option>
+							<option value="Sunrisers Hyderabad">Sunrisers Hyderabad</option>
+							<option value="Delhi Capitals">Delhi Capitals</option>
+              				<option value="Mumbai Indians">Mumbai Indians</option>
+              				<option value="Kolkata Knight Riders">Kolkata Knight Riders</otpion>
+							<option value="Rajasthan Royals">Rajasthan Royals</option> 
+				
+					</select>
+				<!-- </form> -->
+			</div>
+
+			<div class="col-sm-3">
+				<!-- <form> -->
+					<h3>visitor team</h3>
+					<select name="visitorteam">
+							<option value="All">All</option>
+							<option value="Chennai Super Kings">Chennai Super Kings</option>
+							<option value="Royal Challengers Bangalore">Royal Challengers Bangalore</option>
+              				<option value="Kings XI Punjab">Kings XI Punjab</option>
+							<option value="Sunrisers Hyderabad">Sunrisers Hyderabad</option>
+							<option value="Delhi Capitals">Delhi Capitals</option>
+              				<option value="Mumbai Indians">Mumbai Indians</option>
+              				<option value="Kolkata Knight Riders">Kolkata Knight Riders</otpion>
+							<option value="Rajasthan Royals">Rajasthan Royals</option> 
+				
+					</select>
+				<!-- </form> -->
+			</div>
+
+      <div class="col-sm-2">
+        <h3>Match No</h3>
+        <select name="matchno">
+		<option value="All"> All</option>
+        <option value="1">1</option>
+		<option value="2">2</option>
+		<option value="3">3</option>
+		<option value="4">4</option>
+		<option value="5">5</option>
+		<option value="6">6</option>
+		<option value="7">7</option>
+		<option value="8">8</option>
+		<option value="9">9</option>
+		<option value="10">10</option>
+		<option value="11">11</option>
+		<option value="12">12</option>
+		<option value="13">13</option>
+		<option value="14">14</option>
+		<option value="15">15</option>
+		<option value="16">16</option>
+		<option value="17">17</option>
+		<option value="18">18</option>
+		<option value="19">19</option>
+		<option value="20">20</option>
+		<option value="21">21</option>
+		<option value="22">22</option>
+		<option value="23">23</option>
+		<option value="24">24</option>
+		<option value="25">25</option>
+		<option value="26">26</option>
+		<option value="27">27</option>
+		<option value="28">28</option>
+		<option value="29">29</option>
+		<option value="30">30</option>
+		<option value="31">31</option>
+		<option value="32">32</option>
+		<option value="33">33</option>
+		<option value="34">34</option>
+		<option value="35">35</option>
+		<option value="36">36</option>
+		<option value="37">37</option>
+		<option value="38">38</option>
+		<option value="39">39</option>
+		<option value="40">40</option>
+		<option value="41">41</option>
+		<option value="42">42</option>
+		<option value="43">43</option>
+		<option value="44">44</option>
+		<option value="45">45</option>
+		<option value="46">46</option>
+		<option value="47">47</option>
+		<option value="48">48</option>
+		<option value="49">49</option>
+		<option value="50">50</option>
+		<option value="51">51</option>
+		<option value="52">52</option>
+		<option value="53">53</option>
+		<option value="54">54</option>
+		<option value="55">55</option>
+		<option value="56">56</option>
+		<option value="57">57</option>
+		<option value="58">58</option>
+		<option value="59">59</option>
+		<option value="60">60</option>
+
+
+        </select>
+						
+	  </div>
+
+      <div class="col-sm-2">
+				<!-- <form> -->
+					<h3>Venue</h3>
+					<select name="venue">
+							<option value="All">All</option>
+							<option value="Chennai">Chennai</option>
+							<option value="Bangalore">Bangalore</option>
+              				<option value="Mohali">Mohali</option>
+							<option value="Hyderabad">Hyderabad</option>
+							<option value="Delhi">Delhi</option>
+              				<option value="Mumbai">Mumbai</option>
+              				<option value="Kolkata">Kolkata</otpion>
+							<option value="Rajasthan">Rajasthan</option> 
+				
+					</select>
+				<!-- </form> -->
+			</div>
+      <input type="submit" style="color:black;background-color: white;font-size: 20px;margin-left:90%;margin-top:0%" value="submit">
+    </div>
+  </div>
+	
+	<!--  form -->
+</div>
+
+<!-- 
+<p> {{ data }} </p >-->
+
+<div class="container"> 
+  <h2>IPL Schedule 2019</h2>
+  <p></p>            
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>date</th>
+        <th>time</th>
+        <th>home team</th>
+        <th>visitor team</th>
+        
+        <th>Venue</th>
+		<th>Match No</th>
+		<th>Winner</th>
+      </tr>
+	</thead>
+	
+	<tbody>
+	{% for row in data %}
+		<tr>
+		{% for d in row %}
+			<td> {{d}} </td>
+		{% endfor %}
+		</tr>
+	{% endfor %}
+	</tbody>
+	</table>
+</div>
+
+<div class="container"> 
+  <h2>Querying Table</h2>
+  <p>Table shown below is the result of your selected options.</p>            
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>date</th>
+        <th>time</th>
+        <th>home team</th>
+        <th>visitor team</th>
+		<th>Venue</th>
+        <th>Match No</th>
+        
+		<th>Winner</th>
+      </tr>
+    </thead>
+    <tbody>
+	{% for row in  query_data %}
+        <tr>
+        {% for d in row %}
+             <td>{{ d }}</td>
+        {% endfor %}
+        </tr>
+    {% endfor %}
+	</tbody>
+  </table> 
+
+
+</div>
+
+	
+</div>
+
+</body>
+</html>

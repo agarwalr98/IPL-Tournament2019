@@ -1,0 +1,60 @@
+23-03-2019,8.00 IST,Royal Challengers Bangalore,Chennai Super Kings,Chennai,1,Chennai Super Kings
+24/03/2019,4.00 IST,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata,2,Kolkata Knight Riders
+24/03/2019,8.00 IST,Delhi Capitals,Mumbai Indians,Mumbai,3,Delhi Capitals
+25/03/2019,8.00 IST,Kings XI Punjab,Rajasthan Royals,Jaipur,4,Kings XI Punjab
+26/03/2019,8.00 IST,Delhi Capitals,Chennai Super Kings,Delhi,5,Chennai Super Kings
+27/03/2019,8.00 IST,Kolkata Knight Riders,Kings XI Punjab,Kolkata,6,Kolkata Knight Riders
+28/03/2019,8.00 IST,Mumbai Indians,Royal Challengers Bangalore,Bengaluru,7,Mumbai Indians
+29/03/2019,8.00 IST,Rajasthan Royals,Sunrisers Hyderabad,Hyderabad,8,Sunrisers Hyderabad
+30/03/2019,4.00 IST,Mumbai Indians,Kings XI Punjab,Mohali,9,Kings XI Punjab
+30/03/2019,8.00 IST,Kolkata Knight Riders,Delhi Capitals,Delhi,10,Delhi Capitals
+31/03/2019,4.00 IST,Sunrisers Hyderabad,Royal Challengers Bangalore,Hyderabad,11,Sunrisers Hyderabad
+31/03/2019,8.00 IST,Chennai Super Kings,Rajasthan Royals,Chennai,12,Chennai Super Kings
+01/04/2019,8.00 IST,Kings XI Punjab,Delhi Capitals,Mohali,13,Kings XI Punjab
+02/04/2019,8.00 IST,Royal Challengers Bangalore,Rajasthan Royals,Jaipur,14,Rajasthan Royals
+03/04/2019,8.00 IST,Mumbai Indians,Chennai Super Kings,Mumbai,15,Mumbai Indians
+04/04/2019,8.00 IST,Delhi Capitals,Sunrisers Hyderabad,Delhi,16,Sunrisers Hyderabad
+05/04/2019,8.00 IST,Royal Challengers Bangalore,Kolkata Knight Riders,Bengaluru,17,Kolkata Knight Riders
+06/04/2019,4.00 IST,Chennai Super Kings,Kings XI Punjab,Chennai,18,Chennai Super Kings
+06/04/2019,8.00 IST,Mumbai Indians,Sunrisers Hyderabad,Hyderabad,19,Mumbai Indians
+07/04/2019,4.00 IST,Royal Challengers Bangalore,Delhi Capitals,Bengaluru,20,Delhi Capitals
+07/04/2019,8.00 IST,Rajasthan Royals,Kolkata Knight Riders,Jaipur,21,Kolkata Knight Riders
+08/04/2019,8.00 IST,Sunrisers Hyderabad,Kings XI Punjab,Mohali,22,Kings XI Punjab
+09/04/2019,8.00 IST,Kolkata Knight Riders,Chennai Super Kings,Chennai,23,Chennai Super Kings
+10/04/2019,8.00 IST,Kings XI Punjab,Mumbai Indians,Mumbai,24,Mumbai Indians
+11/04/2019,8.00 IST,Rajasthan Royals,Chennai Super Kings,Jaipur,25,Chennai Super Kings
+12/04/2019,8.00 IST,Kolkata Knight Riders,Delhi Capitals,Kolkata,26,Delhi Capitals
+13/04/2019,4.00 IST,Mumbai Indians,Rajasthan Royals,Mumbai,27,Rajasthan Royals
+13/04/2019,8.00 IST,Kings XI Punjab,Royal Challengers Bangalore,Mohali,28,Royal Challengers Bangalore
+14/04/2019,4.00 IST,Kolkata Knight Riders,Chennai Super Kings,Kolkata,29,Chennai Super Kings
+14/04/2019,8.00 IST,Delhi Capitals,Sunrisers Hyderabad,Hyderabad,30,Delhi Capitals
+15/04/2019,4.00 IST,Royal Challengers Bangalore,Mumbai Indians,Mumbai,31,Mumbai Indians
+16/04/2019,8.00 IST,Kings XI Punjab,Rajasthan Royals,Mohali,32,Kings XI Punjab
+17/04/2019,8.00 IST,Chennai Super Kings,Sunrisers Hyderabad,Hyderabad,33,Sunrisers Hyderabad
+18/04/2019,8.00 IST,Mumbai Indians,Delhi Capitals,Delhi,34,Mumbai Indians
+19/04/2019,8.00 IST,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata,35,Royal Challengers Bangalore
+20/04/2019,4.00 IST,Mumbai Indians,Rajasthan Royals,Jaipur,36,Rajasthan Royals
+20/04/2019,8.00 IST,Kings XI Punjab,Delhi Capitals,Delhi,37,Delhi Capitals
+21/04/2019,8.00 IST,Kolkata Knight Riders,Sunrisers Hyderabad,Hyderabad,38,Sunrisers Hyderabad
+21/04/2019,8.00 IST,Royal Challengers Bangalore,Chennai Super Kings,Bengaluru,39,Royal Challengers Bangalore
+22/04/2019,8.00 IST,Rajasthan Royals,Delhi Capitals,Jaipur,40,Delhi Capitals
+23/04/2019,8.00 IST,Sunrisers Hyderabad,Chennai Super Kings,Chennai,41,Chennai Super Kings
+24/04/2019,8.00 IST,Royal Challengers Bangalore,Kings XI Punjab,Bengaluru,42,Royal Challengers Bangalore
+25/04/2019,8.00 IST,Kolkata Knight Riders,Rajasthan Royals,Kolkata,43,Rajasthan Royals
+26/04/2019,8.00 IST,Mumbai Indians,Chennai Super Kings,Chennai,44,Mumbai Indians
+27/04/2019,8.00 IST,Sunrisers Hyderabad,Rajasthan Royals,Jaipur,45,Rajasthan Royals
+28/04/2019,4.00 IST,Delhi Capitals,Royal Challengers Bangalore,Delhi,46,Delhi Capitals
+28/04/2019,8.00 IST,Kolkata Knight Riders,Mumbai Indians,Kolkata,47,Kolkata Knight Riders
+29/04/2019,8.00 IST,Sunrisers Hyderabad,Kings XI Punjab,Hyderabad,48,Sunrisers Hyderabad
+30/04/2019,8.00 IST,Royal Challengers Bangalore,Rajasthan Royals,Bengaluru,49,No result
+01/05/2019,8.00 IST,Chennai Super Kings,Delhi Capitals,Chennai,50,Chennai Super Kings
+02/05/2019,8.00 IST,Mumbai Indians,Sunrisers Hyderabad,Mumbai,51,Mumbai Indians
+03/05/2019,8.00 IST,Kings XI Punjab,Kolkata Knight Riders,Mohali,52,Kolkata Knight Riders
+04/05/2019,4.00 IST,Rajasthan Royals,Delhi Capitals,Delhi,53,Delhi Capitals
+04/05/2019,8.00 IST,Sunrisers Hyderabad,Royal Challengers Bangalore,Bengaluru,54,Royal Challengers Bangalore
+05/05/2019,4.00 IST,Chennai Super Kings,Kings XI Punjab,Mohali,55,Kings XI Punjab
+05/05/2019,8.00 IST,Kolkata Knight Riders,Mumbai Indians,Mumbai,56,Mumbai Indians
+07/05/2019,8.00 IST,Chennai Super Kings,Mumbai Indians,Chennai,57,Mumbai Indians
+08/05/2019,8.00 IST,Sunrisers Hyderabad,Delhi Capitals,Visakhapatnam,58,Delhi Capitals
+10/05/2019,8.00 IST,Delhi Capitals,Chennai Super Kings,Visakhapatnam,59,Chennai Super Kings
+12/05/2019,8.00 IST,Mumbai Indians,Chennai Super Kings,Hyderabad,60,Mumbai Indians
